@@ -38,7 +38,7 @@ public class CloudDiscoveryApplication extends SpringBootServletInitializer {
             super.configure(http);
         }
     }
-    
+
 
     //使用Tomcat启动
     @Override
